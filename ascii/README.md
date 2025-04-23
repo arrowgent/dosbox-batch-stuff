@@ -1,6 +1,7 @@
 ascii - American Standard Code for Information Interchange
 
-this text & batch displays the first 32 then the first extended 128 characters in ASCII within dosbox
+this text & batch displays the first 32 then the first extended 128 characters in ASCII within dosbox </br>
+33-126 are not included because they are typical EN-US letters and numbers or symbols
 
 included are CTRL key buttons which can display ASCII characters
 
