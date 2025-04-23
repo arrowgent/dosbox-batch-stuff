@@ -1,0 +1,16 @@
+000 . NULL	Null Character	Ctrl+@	010  DLE	Data Link Escape
+001  SOH	Start of Header		011  DC1	Device Control 1
+002  STX	Start of Text		012  DC2	Device Control 2
+003  ETX	End of Text		013  DC3	Device Control 3
+004  EOT	End of Trans.		014  DC4	Device Control 4
+005  ENQ	Enquiry			015  NAK	Negative Acknowledge.
+006  ACK	Acknowledgement		016  SYN	Synchronous Idle
+007 . BEL	BELL-BEEP	Ctrl+G	017  ETB	End of Trans. Block
+008  . BS	Backspace		018  CAN	Cancel
+009	HT	Horizontal Tab		019  EM	End of Medium
+00A . LF	Line Feed		01A . SUB	Substitute	 Ctrl+Z
+00B  VT	Vertical Tab		01B  . ESC	Escape		 Ctrl+[
+00C  FF	Form Feed		01C  FS	File Separator	 Ctrl+\
+00D . CR	Carriage Return	Ctrl+M	01D  GS	Group Separator	 Ctrl+]
+00E  SO	Shift Out		01E  RS	Record Separator Ctrl+^
+00F  SI	Shift In		01F  US	Unit Separator	 Ctrl+_
