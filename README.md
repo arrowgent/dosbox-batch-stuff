@@ -10,6 +10,9 @@ ascii.bat formatting
 
 ansiclr.bat color formatting
 
+# [LOCATION](https://github.com/arrowgent/dosbox-batch-stuff/tree/main/location)
+
+location.bat 80x25 formatting
 
 # OTHER
 
