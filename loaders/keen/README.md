@@ -8,7 +8,7 @@ example only! does not contain files to execute or modify and only shows the men
 
 adding `keen.exe` or `call keen.bat` etc to various GOTO lines can start the game (examples are included but there may be errors)
 
-BAT & TXT must be SAVED as ISO-8859-1 format with CR/LF character coding OR IT WILL FAIL
+BAT & TXT must be SAVED as **ISO-8859-15** format with CR/LF character coding OR IT WILL FAIL
 
 7z archive provided to ensure 1:1 file replacement
 
