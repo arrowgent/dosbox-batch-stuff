@@ -24,7 +24,8 @@ various example scripts that i made or were based on GOG dosbox scripts:
 [DUKE3D](https://github.com/arrowgent/dosbox-batch-stuff/tree/main/loaders/duke3d) . 
 [HERHEX](https://github.com/arrowgent/dosbox-batch-stuff/tree/main/loaders/heretic_hexen) . 
 [KEEN](https://github.com/arrowgent/dosbox-batch-stuff/tree/main/loaders/keen) . 
-[SWARRIOR](https://github.com/arrowgent/dosbox-batch-stuff/tree/main/loaders/shadow_warrior)
+[SWARRIOR](https://github.com/arrowgent/dosbox-batch-stuff/tree/main/loaders/shadow_warrior) . 
+[QUAKE](https://github.com/arrowgent/dosbox-batch-stuff/tree/main/loaders/quake)
 
 # OTHER
 
