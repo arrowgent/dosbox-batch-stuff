@@ -40,7 +40,6 @@ GOTO MENU
 Q2.EXE
 echo [23H[0m[1;30m
 pause [24H[0m
-config -set "cpu cycles=1997"
 :DONE
 cls
 @echo off
