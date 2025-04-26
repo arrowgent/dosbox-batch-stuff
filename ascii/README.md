@@ -26,3 +26,7 @@ can be used as a template for building TXT files or BAT script files
 **historical CP437 charset**
 
 [https://en.wikipedia.org/wiki/Code_page_437](https://en.wikipedia.org/wiki/Code_page_437)
+
+**ascii reference**
+
+[https://en.wikipedia.org/wiki/Extended_ASCII](https://en.wikipedia.org/wiki/Extended_ASCII)
