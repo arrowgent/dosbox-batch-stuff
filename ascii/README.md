@@ -22,3 +22,7 @@ can be used as a template for building TXT files or BAT script files
 **example of saving as UTF-8 error**
 
 ![asciierr](https://github.com/arrowgent/dosbox-batch-stuff/blob/main/img/asciierr.png)
+
+**historical CP437 charset**
+
+[https://en.wikipedia.org/wiki/Code_page_437](https://en.wikipedia.org/wiki/Code_page_437)
